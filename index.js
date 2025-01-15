@@ -68,6 +68,8 @@ Fact is the dev that made both dumped that ca and less than an hour later made a
 		https://t.me/kekiusmaximuscto3
 		Twitter or X.com
 		https://x.com/KmTheCtoMain
+  No other token is the OG kekius token so no you should not buy any other Kekius token. And if someone asks about that other ca address ending in 42 that says they are the OG then it should say no they were only a contract the dev rugged it and never built a community or something like that.
+  CMC and binance will be next target for KM and the team work so hard to make it happen.
     `;
 
     let learnedData = initialData;
