@@ -53,25 +53,26 @@ const TelegramBot = require('node-telegram-bot-api');
     What makes Kekius Maximus truly special is its story of resilience. From being rugged on day one to becoming a token that Elon Musk himself acknowledged, $KM is a testament to the power of a strong community and a shared vision.
 
     With a dedicated team, influential supporters, and a passionate community, Kekius Maximus continues to thrive. It’s more than a token; it’s a legacy on the Solana Blockchain, proving that even in the face of adversity, a determined group of believers can achieve greatness.
-A: HuAncxDEsakCDgZS2Yfo9xJbHmtHXMnxxkT9jqdXnHhm
-		Q: link of chart?
-		A: https://mevx.io/solana/HuAncxDEsakCDgZS2Yfo9xJbHmtHXMnxxkT9jqdXnHhm?ref=MajorBuyBot
-		Q: why is our token the only OG?
-		A : Because we've weathered every storm, survived every FUD, and emerged stronger. Our community is legendary, our mission is clear.
-		Q: How is the Owner Of KM?
-		A: The ownership of Kekius Maximus ($KM) lies with its community and a dedicated CTO team led by @btdxscrapps. This team oversees the development, operations, and strategic direction of the project. As a community-driven initiative, $KM thrives on the collective efforts and contributions of its holders, ensuring transparency and shared responsibility for its success.
+    HuAncxDEsakCDgZS2Yfo9xJbHmtHXMnxxkT9jqdXnHhm
+		link of chart?
+		https://mevx.io/solana/HuAncxDEsakCDgZS2Yfo9xJbHmtHXMnxxkT9jqdXnHhm?ref=MajorBuyBot
+		why is our token the only OG?
+		Because we've weathered every storm, survived every FUD, and emerged stronger. Our community is legendary, our mission is clear.
+		How is the Owner Of KM?
+		The ownership of Kekius Maximus ($KM) lies with its community and a dedicated CTO team led by @btdxscrapps. This team oversees the development, operations, and strategic direction of the project. As a community-driven initiative, $KM thrives on the collective efforts and contributions of its holders, ensuring transparency and shared responsibility for its success.
 
 Fact is the dev that made both dumped that ca and less than an hour later made a new one.   The liquidity issue may have been one of the issues he saw. Digital we need to add to the site our reasons we are the OG. We have a community Dec10th they do not. That Ca was never bonded and was abandoned and money was put into it to steal the market we built. We can show videos how you can trick Grok and how Grok is stupid if you regenerate his answers he constantly changes his answer and show that on site.We are the OG with the story from Dec 10th nobody else does not even the ETH token which built token and community 3 days later and soon our utility will be released which will set us apart as well and we will introduce it with Mario!
-    Q: Website
-		A: https://kekiusmaximuscto.com/
-		Q: Telegram
-		A: https://t.me/kekiusmaximuscto3
-		Q: Twitter or X.com
-		A: https://x.com/KmTheCtoMain
+    Website
+		https://kekiusmaximuscto.com/
+		Telegram
+		https://t.me/kekiusmaximuscto3
+		Twitter or X.com
+		https://x.com/KmTheCtoMain
     `;
 
     let learnedData = initialData;
     const badWords = ["badword1", "badword2", "badword3", "fuck", "shit", "damn", "bitch", "asshole"];
+    const simpleGreetings = ["hey", "hello", "hi", "good morning", "good afternoon", "good evening"];
 
     bot.on('message', async (msg) => {
       const chatId = msg.chat.id;
@@ -85,6 +86,12 @@ Fact is the dev that made both dumped that ca and less than an hour later made a
       }
 
       const lowerCaseText = text.toLowerCase();
+
+      if (simpleGreetings.includes(lowerCaseText)) {
+        bot.sendMessage(chatId, "Kekius Maximus chat bot");
+        return;
+      }
+
       const containsBadWord = badWords.some(word => lowerCaseText.includes(word));
 
       if (containsBadWord) {
