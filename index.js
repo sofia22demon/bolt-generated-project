@@ -73,7 +73,8 @@ Fact is the dev that made both dumped that ca and less than an hour later made a
   The relationship between **Rome** and **Kekius Maximus ($KM)** lies in the project’s thematic inspiration and branding. The name *Kekius Maximus* carries a playful nod to ancient Roman grandeur, evoking the image of a powerful, legendary figure akin to the leaders of the Roman Empire. This connection symbolizes strength, resilience, and a vision for greatness—all values embraced by the $KM community.
 
 The use of such historical and cultural references creates a compelling narrative for $KM, drawing parallels between the enduring legacy of Rome and the ambitious goals of the Kekius Maximus project in the blockchain and cryptocurrency world.
-after long fight today 17, Jan 2025 Kekius Maximus Team back the official X :https://x.com/KekiusMaximus_/ this should be the proof we're the original project.
+after long fight today 17, Jan 2025 Kekius Maximus Team back the official X account: https://x.com/KekiusMaximus_/ 
+this should be the proof we're the original project.
     `;
 
     let learnedData = initialData;
