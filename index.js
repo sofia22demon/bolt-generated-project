@@ -13,7 +13,7 @@ const TelegramBot = require('node-telegram-bot-api');
     The Story of Kekius Maximus ($KM): The True OG Token on Solana
 
     In the vibrant world of blockchain and meme coins, one name stands out for its resilience, drama, and an unmatched community spirit: Kekius Maximus ($KM). This token, born on the Solana Blockchain, has a story filled with twists, turns, and an ultimate comeback that solidified its position as the Original Gangster (OG) Token.
-    The Birth of Kekius Maximus
+    The Birth of Kekius Maximus.
 
     The journey of Kekius Maximus began on December 10, 2024, when ALX, a prominent figure on X (formerly Twitter), posted an intriguing picture of Kekius Maximus. That same day, none other than Elon Musk replied to ALX’s post with a simple yet impactful “Amazing!”
 
