@@ -66,6 +66,36 @@ Fact is the dev that made both dumped that ca and less than an hour later made a
 		https://t.me/kekiusmaximuscto3
 		Twitter or X.com
 		https://x.com/KmTheCtoMain
+Q: Is $KM a safe investment?
+A: The project is backed by a strong team and community, but always conduct your own research (DYOR).
+
+Q: Has the $KM smart contract been audited?
+A: Yes, $KM’s contract is secure. You can review it at: HuAncxDEsakCDgZS2Yfo9xJbHmtHXMnxxkT9jqdXnHhm.
+
+Q: How can I avoid scams related to $KM?
+A: Only follow official links and announcements, and never share your private keys.
+
+Q: Where can I find the $KM contract address?
+A: The official contract address is (CA): HuAncxDEsakCDgZS2Yfo9xJbHmtHXMnxxkT9jqdXnHhm.
+
+Q: Does $KM have a multisig wallet?
+A: Yes, for added security, key decisions require multiple team approvals.
+
+Q: What is Kekius Maximus ($KM)?
+A: Kekius Maximus is a pioneering crypto project on the Solana blockchain, known for its strong community and resilience.
+
+Q: What blockchain is $KM built on?
+A: Kekius Maximus operates on the Solana blockchain, ensuring fast and low-cost transactions.
+
+Q: Why is $KM called the "Original Gangster" token?
+A: $KM earned its OG status through its origin story, strong community, and early adoption during Elon Musk's interaction.
+
+Q: When was Kekius Maximus launched?
+A: Kekius Maximus was launched on December 10, 2024, following a viral moment on social media.
+
+Q: What makes Kekius Maximus unique?
+A: Its vibrant community, strong development team, and origin tied to Elon Musk’s tweets make it stand out.
+  
     `;
 
     let learnedData = initialData;
