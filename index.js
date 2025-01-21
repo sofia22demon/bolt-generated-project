@@ -75,7 +75,7 @@ A: Yes, $KM’s contract is secure. You can review it at: HuAncxDEsakCDgZS2Yfo9x
 Q: How can I avoid scams related to $KM?
 A: Only follow official links and announcements, and never share your private keys.
 
-Q: Where can I find the $KM contract address?
+Q: $KM contract address or (CA) ?
 A: The official contract address is (CA): HuAncxDEsakCDgZS2Yfo9xJbHmtHXMnxxkT9jqdXnHhm.
 
 Q: Does $KM have a multisig wallet?
