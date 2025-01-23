@@ -27,6 +27,7 @@ const TelegramBot = require('node-telegram-bot-api');
 
     Despite the growing popularity, challenges persisted. A former lead of the project, who had sold off his holdings, tried to rejoin the team, causing unrest among the community. At one point, he announced a supposed “major update,” only to reveal plans for a Baby Kekius token and lock the community chat.
 
+    We went from 300k to 5M true the first time ELON tweeted Kekius MAximus however when he changed PFP we went from 300K to 52M in one night
 
     The turning point came when Elon Musk changed his profile picture to Kekius Maximus. This single action caused the token’s market cap to skyrocket from $300K to over $50 million in one night. The hype around $KM drew attention from new investors and cemented its position as the true OG token of its kind.
 
